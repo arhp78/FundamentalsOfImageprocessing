@@ -1,8 +1,9 @@
 # FundamentalsOfImageprocessing
 ### Assignments:
-- **Pyramid Blending and Feathering**[Github Link](https://github.com/arhp78/Image-processing--Pyramid-Blending-and-Feathering/tree/main):
-- **Poisson Blending**[Github Link](https://github.com/arhp78/Image-processing-Poisson-Blending):
-- **Texture Synthesis**[Github Link](https://github.com/arhp78/Image-processing-Texture-Synthesis-):
+- **Pyramid Blending and Feathering** - [Github Link](https://github.com/arhp78/Image-processing--Pyramid-Blending-and-Feathering/tree/main)
+- **Poisson Blending** - [Github Link](https://github.com/arhp78/Image-processing-Poisson-Blending)
+- **Texture Synthesis** - [Github Link](https://github.com/arhp78/Image-processing-Texture-Synthesis-)
+- **Image Morphing** - [Github Link](https://github.com/arhp78/Image-processing-Image-Morphing/blob/main/)
 
 
 ### This course contains the following topics:

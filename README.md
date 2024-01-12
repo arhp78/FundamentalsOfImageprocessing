@@ -4,6 +4,10 @@
 - **Poisson Blending** - [Github Link](https://github.com/arhp78/Image-processing-Poisson-Blending)
 - **Texture Synthesis** - [Github Link](https://github.com/arhp78/Image-processing-Texture-Synthesis-)
 - **Image Morphing** - [Github Link](https://github.com/arhp78/Image-processing-Image-Morphing/blob/main/)
+- **Hybrid Image** - [Github Link](https://github.com/arhp78/Image_processing_hybrid_image)
+- **Prokudin Gorskii Images- colorized images** - [Github Link](https://github.com/arhp78/image_processing_Prokudin-Gorskii-Images)
+- **Homography and Image Warping** - [Github Link](https://github.com/arhp78/Image-processing-Homography-and-Image-Warping)
+- **SLIC** - [Github Link](https://github.com/arhp78/Image-processing-SLIC)
 
 
 ### This course contains the following topics:

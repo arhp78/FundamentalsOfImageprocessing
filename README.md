@@ -17,13 +17,13 @@
 - **Geometric Transformations and Image warping**
 - **Fourier Transform**
 - **Image Segmentation:**
-  – K-means
-  – Contrast
-  – Mean-shift
-  – Texture Based Segmentation Filtering
-  – Normalized Cuts
-  – Graph Cuts
-  – Deformable Contours
+  - K-means
+  - Contrast
+  - Mean-shift
+  - Texture Based Segmentation Filtering
+  - Normalized Cuts
+  - Graph Cuts
+  - Deformable Contours
 - **Oversegmentation & Superpixels**
 - **Turbo Pixels**
 - **Simple Linear Iterative Clustering**

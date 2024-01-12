@@ -1,5 +1,5 @@
 # FundamentalsOfImageprocessing
-##This repository includes all the practical assignments nad the slides of the Fundamental Of Imageprocessing course.
+## This repository includes all the practical assignments and the slides of the Fundamental Of Image Processing course.
 ### Assignments:
 - **Pyramid Blending and Feathering** - [Github Link](https://github.com/arhp78/Image-processing--Pyramid-Blending-and-Feathering/tree/main)
 - **Poisson Blending** - [Github Link](https://github.com/arhp78/Image-processing-Poisson-Blending)

@@ -1,13 +1,16 @@
 # FundamentalsOfImageprocessing
+### Assignments:
+- [HW1](https://github.com/arhp78/Image-processing--Pyramid-Blending-and-Feathering/tree/main):
+     - **Pyramid-Blending-and-Feathering**:
 
 ### This course contains the following topics:
 - **Basics of Image Processing**
 - **Visual Perception**
 - **Image Enhancement:**
-  – Point Operations
-  – Contrast
-  – Histogram Processing
-  – Spatial Filtering
+  - Point Operations
+  - Contrast
+  - Histogram Processing
+  - Spatial Filtering
 - **Image Sampling**
 - **Edge Detection**
 - **Image Sharpening**
